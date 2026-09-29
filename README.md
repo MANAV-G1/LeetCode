@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/MANAV-G1/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MANAV-G1/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MANAV-G1/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/MANAV-G1/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MANAV-G1/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MANAV-G1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MANAV-G1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/MANAV-G1/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
